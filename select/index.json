@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "おまじない。",
+  "base_artist": "ロス",
+  "createdAt": "2025-12-01T08:25:11.407549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/01_おまじない_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/02_おまじない_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "矢吹可奈 (CV.木戸衣吹)",
+      "has_synced": false,
+      "path": "select/03_おまじない_矢吹可奈_(CV.木戸衣吹).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/04_おまじない_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "MILGRAM アマネ (CV: 田中美海)",
+      "has_synced": true,
+      "path": "select/05_おまじない_MILGRAM_アマネ_(CV__田中美海).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "藤川千愛",
+      "has_synced": true,
+      "path": "select/06_おまじない_藤川千愛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": false,
+      "path": "select/07_おまじない_OGRE_YOU_ASSHOLE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/08_おまじない_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/09_おまじない_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "Sachi Tainaka",
+      "has_synced": false,
+      "path": "select/10_おまじない_Sachi_Tainaka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "Sano ibuki",
+      "has_synced": true,
+      "path": "select/11_おまじない_Sano_ibuki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/12_おまじない_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "おまじない",
+      "artist": "Chiaki Fujikawa (藤川千愛)",
+      "has_synced": true,
+      "path": "select/13_おまじない_Chiaki_Fujikawa_(藤川千愛).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おまじない",
+      "artist": "矢吹可奈 (木戸衣吹)",
+      "has_synced": false,
+      "path": "select/pl_01_おまじない_矢吹可奈_(木戸衣吹).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "おまじないのうた",
+      "artist": "矢吹可奈 (木戸衣吹)",
+      "has_synced": false,
+      "path": "select/pl_02_おまじないのうた_矢吹可奈_(木戸衣吹).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "おまじない",
+      "artist": "矢吹可奈 (木戸衣吹)",
+      "has_synced": false,
+      "path": "select/pl_03_おまじない_矢吹可奈_(木戸衣吹).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "おまじない",
+      "artist": "矢吹可奈 (木戸衣吹)",
+      "has_synced": false,
+      "path": "select/pl_04_おまじない_矢吹可奈_(木戸衣吹).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "おまじない",
+      "artist": "矢吹可奈 (木戸衣吹)",
+      "has_synced": false,
+      "path": "select/pl_05_おまじない_矢吹可奈_(木戸衣吹).txt"
+    }
+  ]
+}
